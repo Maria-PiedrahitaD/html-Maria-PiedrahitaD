@@ -1,0 +1,37 @@
+#titulo {
+  color: red;
+  font-size: 100px;
+  text-align: center;
+  text-shadow: 3px 3px black;
+}
+
+#n1 {
+  background-color: yellow;
+}
+
+#n2 {
+  color: green;
+}
+
+#n3 {
+  color: white;
+  background-color: black;
+}
+
+#n4 {
+  color: white;
+  background-color: black;
+}
+
+#n5 {
+  color: darkblue;
+}
+
+#n6 {
+  color: darkblue;
+}
+
+#n7 {
+  font-size: 35px;
+  text-shadow: 3px 3px darkcyan;
+}
