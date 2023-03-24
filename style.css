@@ -9,9 +9,25 @@
 #texto1 {
   text-align: center;
 }
-
-#imagen2 {
+#tituloMari {
+  color: red;
+  text-align: center;
 }
+
+#tituloSer {
+  color: blue;
+}
+
 #texto3 {
-  text-align: left;
+  text-align: right;
+}
+
+#tituloAra {
+  color: green;
+  text-align: right;
+}
+
+#imagen3 {
+  display: block;
+  margin-left: auto;
 }
