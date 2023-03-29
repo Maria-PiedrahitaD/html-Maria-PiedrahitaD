@@ -1,0 +1,33 @@
+#imagen1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgreen);
+  filter: grayscale(50%);
+}
+
+#texto1 {
+  text-align: center;
+}
+#tituloMari {
+  color: red;
+  text-align: center;
+}
+
+#tituloSer {
+  color: blue;
+}
+
+#texto3 {
+  text-align: right;
+}
+
+#tituloAra {
+  color: green;
+  text-align: right;
+}
+
+#Imagen3 {
+  display: block;
+  margin-left: auto;
+}
